@@ -1,4 +1,4 @@
-# Real_time__bus_tracker
+# Real time bus tracker
 
 Descripción del proyecto: 
 
